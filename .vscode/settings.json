@@ -1,4 +1,7 @@
 {
     "jira-plugin.workingProject": "",
-    "vscode-corda.isCordaProject": false
+    "vscode-corda.isCordaProject": false,
+    "cSpell.words": [
+        "algoliasearch"
+    ]
 }
